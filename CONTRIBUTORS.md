@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Prashant Agheda] (https://github.com/prashant-agheda)
+- Place: Maharashtra, India
+- Bio: Student
+- Github: [Prashant Agheda] (https://github.com/prashant-agheda)
